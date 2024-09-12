@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #948585; */
+    background-image: url("C:\Users\angel\Documents\HairByKibi\192C5B9A-BE79-4CDE-9E70-F13F57AD31E4.JPG");
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    border: 5px solid black;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+p{
+    color: rgb(24, 2, 43);
+    font-style: italic;
+    font-weight: bolder;
+}
+table{
+    color: rgb(4, 8, 71);
+    border: double;
+}
+h2{
+    border: 5px solid rgb(157, 210, 235);
+}
+h1{
+    border:5px solid plum ;
+}
+section{
+    border: 5px solid;
+}
